@@ -3,7 +3,7 @@ Naan Mudhalvan project done in salesforce.
 
 ## Project Details
 
-- **College**:4216 - Mailam Engg=ineering college
+- **College**:4216 - Mailam Enggineering college
 
 ## Team Members
 
@@ -18,4 +18,4 @@ Naan Mudhalvan project done in salesforce.
 
 You can view the project demo using the following link:
 
-[Trip Advisor Demo]()
+[Trip Advisor Demo](https://drive.google.com/file/d/1g8UXw3_vhkwqQQ3lvQkBY3kNo2pO0oLW/view)

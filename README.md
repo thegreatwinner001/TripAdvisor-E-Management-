@@ -1,5 +1,5 @@
 # TripAdvisor-E-Management
-Naan Mudhalvan project done in salesforce.
+The TripAdvisor E-Management app with Salesforce helps you plan, book, and manage trips. Access millions of reviews, find top hotels, restaurants, attractions, and discover the best travel deals—all in one place.
 
 ## Project Details
 
